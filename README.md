@@ -3,8 +3,6 @@
 - 💻 AI Researcher & Programmer
 - 🤝 Open to Consulting and Freelance Opportunities
 - ⌨️ Languages: Python(major), C++
-- 👨‍🎓 NKNU BS MATH -> NTHU MS CS
-- 🏹 CS PhD in the future
 
 ### Stats
 
